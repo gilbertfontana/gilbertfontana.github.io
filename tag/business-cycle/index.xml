@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Macroeconomics | Gilbert Fontana</title>
-    <link>https://gilbertfontana.github.io/tag/macroeconomics/</link>
-      <atom:link href="https://gilbertfontana.github.io/tag/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Macroeconomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <title>Business cycle | Gilbert Fontana</title>
+    <link>https://gilbertfontana.github.io/tag/business-cycle/</link>
+      <atom:link href="https://gilbertfontana.github.io/tag/business-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Business cycle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://gilbertfontana.github.io/media/icon_hub5dc27100c18eb2b27a60957df55d979_236085_512x512_fill_lanczos_center_3.png</url>
-      <title>Macroeconomics</title>
-      <link>https://gilbertfontana.github.io/tag/macroeconomics/</link>
+      <title>Business cycle</title>
+      <link>https://gilbertfontana.github.io/tag/business-cycle/</link>
     </image>
     
     <item>
-      <title>Unemployment and the business cycle</title>
+      <title>Employment and the business cycle</title>
       <link>https://gilbertfontana.github.io/post/blog1/blog1/</link>
-      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://gilbertfontana.github.io/post/blog1/blog1/</guid>
       <description>
 
@@ -23,8 +23,7 @@
 &lt;p&gt;Inflation has increase rapidly in many developed countries during the latest months. Surging energy prices as a result of the Russo-Ukrainian War and supply chains distortions as a consequence of the pandemic are the main forces which contribute to the recent increase in the prices of goods and services. The reduced purchasing power decrease the aggregated demand and the probability of recession are increasing in many countries.&lt;/p&gt;
 &lt;p&gt;Short-term fluctuations in the the economy is often referred to as business cycles. Changes in GDP, which is the most common measurement of economic activity, is usually the main business cycles indicator. Sometimes are combinations of other macroeconomic variables, such as consumer confident indices, used to measure the business cycle. In this blog post I will try to explain how business cycles and employment are related.&lt;/p&gt;
 &lt;p&gt;Employment is typically considered a lagging indicator of the business cycle. A lagging indicator generally change after the overall economy as whole does. Employment rate is pro-cyclical and lags the business cycle by approximately one quarter (Stock &amp;amp; Watson, 1999).&lt;/p&gt;
-&lt;p&gt;The relationship between the business cycle and the labor market can further more be illustrated by what is called Okun’s Law (Okun, 1963). The ‘Law’ states that there is a negative linear association between change in economic output, measured as real GDP, and unemployment. As growth diminish, unemployment is expected to increase. Okun (1963) suggested that a one-percentage point change in the unemployment rate is
-associated with an approximately three-percentage change in output in the opposite direction. Figure 1 below maps the relationship using annual Swedish data between 1980 and 2020.&lt;/p&gt;
+&lt;p&gt;The relationship between the business cycle and the labor market can further more be illustrated by what is called Okun’s Law (Okun, 1963). The ‘Law’ states that there is a negative linear association between change in economic output, measured as real GDP, and unemployment.&lt;/p&gt;
 &lt;div id=&#34;figure-1.-the-relationship-between-gdp-and-unemployment-in-sweden-19802020&#34; class=&#34;section level6&#34;&gt;
 &lt;h6&gt;Figure 1. The relationship between GDP and unemployment in Sweden, 1980–2020&lt;/h6&gt;
 &lt;p&gt;&lt;img src=&#34;https://gilbertfontana.github.io/img/Blog1.png&#34; /&gt;&lt;/p&gt;
